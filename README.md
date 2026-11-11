@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m Analia. A passionate Bilingual Accountant currently working with Business Intelligence.
+- 🔭 I’m Analia Galimberti. A passionate Bilingual Accountant currently working with Business Intelligence.
 - 🌱 I’m currently learning Business Intelligence and Claude.
 - 👯 I’m looking to collaborate with companies to make them grow and succeed.
 - 🤔 I’m looking for help with ...
