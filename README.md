@@ -1,6 +1,6 @@
 ## Hi there 👋 
 🔭 I’m Analia. A passionate Bilingual Accountant currently working with Business Intelligence.
-- 🌱 I’m currently learning Business Intelligence and Claude.
+- 🌱 I’m currently learning Claude.
 - 👯 I collaborate with companies to make them grow and succeed.
 💬 Ask me about Accounting, Finance, Business Intelligence and automation.
 - 📫 How to reach me: mobile 341 2561221
