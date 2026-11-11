@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Business Intelligence and Claude.
 - 👯 I’m looking to collaborate with companies to make them grow and succeed.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about accounting, finance, Business Intelligence.
+- 💬 Ask me about Accounting, Finance, Business Intelligence and automation.
 - 📫 How to reach me: mobile 341 2561221
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
